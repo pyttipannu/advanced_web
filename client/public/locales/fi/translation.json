@@ -1,0 +1,21 @@
+{
+    "Home": "Etusivu",
+    "Login": "Kirjaudu sisään",
+    "Register": "Rekisteröidy",
+    "Logout": "Kirjaudu ulos",
+    "Board": "Taulu",
+    "Boards": "Taulut",
+    "Column Title": "Sarakkeen nimi",
+    "Enter column name...": "Syötä sarakkeen nimi...",
+    "Add Column": "Lisää sarake",
+    "Your Board": "Sinun taulusi",
+    "No columns yet": "Ei sarakkeita vielä",
+    "Delete Column": "Poista sarake",
+    "Card Title": "Kortin nimi",
+    "Card Description": "Kortin kuvaus",
+    "Add Card": "Lisää kortti",
+    "Delete Card": "Poista kortti",
+    "No cards": "Ei kortteja",
+    "By registering and logging in you get access to your columns.": "Rekisteröitymällä ja kirjautumalla sisään saat pääsyn tauluusi"
+  }
+  
